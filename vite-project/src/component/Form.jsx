@@ -62,7 +62,7 @@ const onsubmit = () =>{
     type="Number" 
     name="" 
     id="EmailName" 
-    placeholder="Enter  your PhoneNumber" 
+    placeholder="Enter  your Password" 
     {...register("password", {
         required: "password is required",
 
